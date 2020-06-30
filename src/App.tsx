@@ -4,10 +4,8 @@ import "./styles.css";
 
 import { FuzzaldrinPlus } from "./FuzzaldrinPlus";
 import { FuzzaldrinPlus2 } from "./FuzzaldrinPlus2";
-import { ExactMatch } from "./ExactMatch";
 import { MatchSorter } from "./MatchSorter";
-import { MatchSorter2 } from "./MatchSorter2";
-import { Levenshtein } from "./Levenshtein";
+import { ExactMatch } from "./ExactMatch";
 import { Final } from "./Final";
 
 export default function App() {
