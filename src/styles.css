@@ -1,0 +1,38 @@
+:root {
+  --line-color: black;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --line-color: white;
+  }
+
+  body {
+    background: #0e141b;
+    background: #0e141b;
+    color: #ddd;
+  }
+}
+
+.App {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+mark {
+  font-weight: bold;
+}
+
+.results-container {
+  margin-top: 1rem;
+  display: flex;
+}
+
+.results-container > * {
+  border-right: 1px solid var(--line-color);
+  padding-right: 1rem;
+  margin-right: 1rem;
+}
