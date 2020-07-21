@@ -11,7 +11,7 @@
     "@types/match-sorter": "4.0.0",
     "fuzzaldrin-plus": "0.6.0",
     "js-levenshtein": "1.1.6",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "match-sorter": "4.1.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
